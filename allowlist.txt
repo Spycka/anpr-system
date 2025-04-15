@@ -1,0 +1,13 @@
+# License Plate Allowlist
+# Format: PLATE [MAKE] [COLOR]
+# Examples:
+# ABC123
+# DEF456 BMW
+# GHI789 TOYOTA RED
+# JKL012 * BLUE (any make, blue color)
+# Lines starting with # are ignored
+
+# Example entries:
+ABC123
+XYZ789 BMW
+DEF456 * RED

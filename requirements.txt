@@ -1,0 +1,32 @@
+# Core dependencies
+numpy>=1.26.4
+opencv-python>=4.5.5
+Pillow>=9.0.0
+easyocr>=1.6.0
+torch==2.0.1
+torchvision==0.15.2
+
+# Hardware access
+OPi.GPIO>=0.5.1
+
+# Build tools
+ninja>=1.10.0
+cmake>=3.18.0
+
+# Additional utilities
+pyyaml>=6.0
+tqdm>=4.64.1
+matplotlib>=3.5.0
+
+# RKNN Toolkit 2
+
+protobuf==3.20.3
+psutil>=5.9.0
+ruamel.yaml>=0.17.21
+scipy>=1.9.3
+opencv-python>=4.5.5.64
+fast-histogram>=0.11
+onnx==1.16.1
+onnxoptimizer==0.3.8
+onnxruntime>=1.16.0
+torch>=1.13.1,<=2.2.0
